@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 03153791f31d63b4ea4c951700628335
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Expletus Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30e9e0c92637acc48be66a0bd146d6fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
